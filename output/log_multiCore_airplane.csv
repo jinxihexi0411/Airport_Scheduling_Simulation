@@ -1,0 +1,4 @@
+airplaneType,maxNumPassenger,cruiseSpeed,maxFuelCapacity,fuelWarningThreshold
+Boeing 747,276,0.275,15000,0.05
+Airbus 330,335,0.24166666666666667,15000,0.05
+Airbus 380,652,0.28888888888888886,15000,0.05
